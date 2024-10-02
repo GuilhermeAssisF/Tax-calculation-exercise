@@ -35,7 +35,5 @@ This Java project calculates the final price of products and services, taking in
 - Java 8 or higher
 - Java IDE (NetBeans, IntelliJ, Eclipse, etc.)
 
-## License
-This project is licensed under the MIT License.
 
-AI-generated Read.me
+## AI-generated Read.me
